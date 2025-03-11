@@ -7,7 +7,10 @@ import { Header } from "@/components/layout/header"
 import { Footer } from "@/components/layout/footer"
 
 interface CityPageProps {
-  params: { state: string; city: string }
+  params: {
+    state: string
+    city: string
+  }
 }
 
 export default function CityPage({ params }: CityPageProps) {
@@ -47,9 +50,9 @@ export default function CityPage({ params }: CityPageProps) {
       <main className="flex-1">
         <div className="container px-4 py-6 md:px-6">
           <Button variant="ghost" size="sm" asChild className="mb-4">
-            <Link href={`/${state}`} className="flex items-center">
+            <Link href="/" className="flex items-center">
               <ArrowLeft className="mr-2 h-4 w-4" />
-              Back to {state.toUpperCase()}
+              Back
             </Link>
           </Button>
           
@@ -71,7 +74,7 @@ export default function CityPage({ params }: CityPageProps) {
                     <h2 className="text-xl font-bold">{sauna.name}</h2>
                     <p className="text-muted-foreground">{sauna.address}</p>
                     <div className="flex items-center mt-2">
-                      <Star className="h-4 w-4 fill-amber-500 text-amber-500" />
+                      <Star className="h-4 w-4 fill-blue-500 text-blue-500" />
                       <span className="ml-1 font-medium">{sauna.rating}</span>
                       <span className="ml-1 text-muted-foreground">({sauna.reviewCount} reviews)</span>
                     </div>

@@ -48,7 +48,6 @@ export default function StatePage({ params }: StatePageProps) {
                 name={city.name}
                 province={state}
                 slug={city.slug}
-                count={city.count}
                 image={`/images/cities/${city.slug}.jpg`}
               />
             ))}

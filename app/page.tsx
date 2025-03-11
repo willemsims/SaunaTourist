@@ -1,3 +1,5 @@
+"use client"
+
 import Link from "next/link"
 import Image from "next/image"
 import { Button } from "@/components/ui/button"
@@ -11,68 +13,177 @@ import {
 } from "@/components/ui/accordion"
 import { CityCard } from "@/components/city/city-card"
 import { ProvinceCitySelector } from "@/components/province/province-city-selector"
+import { useEffect } from "react"
 
 export default function Home() {
+  // Handle hash navigation when coming from other pages
+  useEffect(() => {
+    // Check if there's a hash in the URL
+    if (window.location.hash) {
+      const id = window.location.hash.substring(1)
+      const element = document.getElementById(id)
+      if (element) {
+        // Add a small delay to ensure the page is fully loaded
+        setTimeout(() => {
+          element.scrollIntoView({ behavior: "smooth" })
+        }, 100)
+      }
+    }
+  }, [])
+
   // All Canadian provinces and territories with their cities
   const provinces = [
     { 
       name: "Alberta", 
-      slug: "ab", 
-      count: 18,
+      slug: "ab",
       cities: [
-        { name: "Calgary", slug: "calgary", count: 8 },
-        { name: "Edmonton", slug: "edmonton", count: 6 },
-        { name: "Banff", slug: "banff", count: 4 },
+        { name: "Calgary", slug: "calgary" },
+        { name: "Edmonton", slug: "edmonton" },
+        { name: "Banff", slug: "banff" },
+        { name: "Jasper", slug: "jasper" },
+        { name: "Canmore", slug: "canmore" },
+        { name: "Red Deer", slug: "red-deer" },
+        { name: "Lethbridge", slug: "lethbridge" },
       ]
     },
     { 
       name: "British Columbia", 
-      slug: "bc", 
-      count: 24,
+      slug: "bc",
       cities: [
-        { name: "Vancouver", slug: "vancouver", count: 12 },
-        { name: "Victoria", slug: "victoria", count: 6 },
-        { name: "Whistler", slug: "whistler", count: 4 },
-        { name: "Kelowna", slug: "kelowna", count: 2 },
+        { name: "Vancouver", slug: "vancouver" },
+        { name: "Victoria", slug: "victoria" },
+        { name: "Whistler", slug: "whistler" },
+        { name: "Kelowna", slug: "kelowna" },
+        { name: "Tofino", slug: "tofino" },
+        { name: "Nanaimo", slug: "nanaimo" },
+        { name: "Kamloops", slug: "kamloops" },
+        { name: "Prince George", slug: "prince-george" },
+      ]
+    },
+    { 
+      name: "Manitoba", 
+      slug: "mb",
+      cities: [
+        { name: "Winnipeg", slug: "winnipeg" },
+        { name: "Brandon", slug: "brandon" },
+        { name: "Churchill", slug: "churchill" },
+        { name: "Steinbach", slug: "steinbach" },
+        { name: "Thompson", slug: "thompson" },
+      ]
+    },
+    { 
+      name: "New Brunswick", 
+      slug: "nb",
+      cities: [
+        { name: "Fredericton", slug: "fredericton" },
+        { name: "Saint John", slug: "saint-john" },
+        { name: "Moncton", slug: "moncton" },
+        { name: "Edmundston", slug: "edmundston" },
+      ]
+    },
+    { 
+      name: "Newfoundland and Labrador", 
+      slug: "nl",
+      cities: [
+        { name: "St. John's", slug: "st-johns" },
+        { name: "Corner Brook", slug: "corner-brook" },
+        { name: "Gander", slug: "gander" },
+        { name: "Labrador City", slug: "labrador-city" },
+      ]
+    },
+    { 
+      name: "Northwest Territories", 
+      slug: "nt",
+      cities: [
+        { name: "Yellowknife", slug: "yellowknife" },
+        { name: "Inuvik", slug: "inuvik" },
+        { name: "Hay River", slug: "hay-river" },
+      ]
+    },
+    { 
+      name: "Nova Scotia", 
+      slug: "ns",
+      cities: [
+        { name: "Halifax", slug: "halifax" },
+        { name: "Sydney", slug: "sydney" },
+        { name: "Dartmouth", slug: "dartmouth" },
+        { name: "Truro", slug: "truro" },
+        { name: "Lunenburg", slug: "lunenburg" },
+      ]
+    },
+    { 
+      name: "Nunavut", 
+      slug: "nu",
+      cities: [
+        { name: "Iqaluit", slug: "iqaluit" },
+        { name: "Rankin Inlet", slug: "rankin-inlet" },
+        { name: "Cambridge Bay", slug: "cambridge-bay" },
       ]
     },
     { 
       name: "Ontario", 
-      slug: "on", 
-      count: 32,
+      slug: "on",
       cities: [
-        { name: "Toronto", slug: "toronto", count: 15 },
-        { name: "Ottawa", slug: "ottawa", count: 8 },
-        { name: "Mississauga", slug: "mississauga", count: 5 },
-        { name: "Hamilton", slug: "hamilton", count: 4 },
+        { name: "Toronto", slug: "toronto" },
+        { name: "Ottawa", slug: "ottawa" },
+        { name: "Mississauga", slug: "mississauga" },
+        { name: "Hamilton", slug: "hamilton" },
+        { name: "London", slug: "london" },
+        { name: "Niagara Falls", slug: "niagara-falls" },
+        { name: "Kingston", slug: "kingston" },
+        { name: "Windsor", slug: "windsor" },
+        { name: "Sudbury", slug: "sudbury" },
+        { name: "Thunder Bay", slug: "thunder-bay" },
       ]
     },
-    // Add more provinces with their cities...
+    { 
+      name: "Prince Edward Island", 
+      slug: "pe",
+      cities: [
+        { name: "Charlottetown", slug: "charlottetown" },
+        { name: "Summerside", slug: "summerside" },
+        { name: "Montague", slug: "montague" },
+      ]
+    },
+    { 
+      name: "Quebec", 
+      slug: "qc",
+      cities: [
+        { name: "Montreal", slug: "montreal" },
+        { name: "Quebec City", slug: "quebec-city" },
+        { name: "Gatineau", slug: "gatineau" },
+        { name: "Sherbrooke", slug: "sherbrooke" },
+        { name: "Trois-Rivières", slug: "trois-rivieres" },
+        { name: "Mont-Tremblant", slug: "mont-tremblant" },
+        { name: "Laval", slug: "laval" },
+      ]
+    },
+    { 
+      name: "Saskatchewan", 
+      slug: "sk",
+      cities: [
+        { name: "Regina", slug: "regina" },
+        { name: "Saskatoon", slug: "saskatoon" },
+        { name: "Moose Jaw", slug: "moose-jaw" },
+        { name: "Prince Albert", slug: "prince-albert" },
+      ]
+    },
+    { 
+      name: "Yukon", 
+      slug: "yt",
+      cities: [
+        { name: "Whitehorse", slug: "whitehorse" },
+        { name: "Dawson City", slug: "dawson-city" },
+        { name: "Watson Lake", slug: "watson-lake" },
+      ]
+    },
   ]
 
   // Popular cities with saunas (for the featured section)
   const popularCities = [
-    { 
-      name: "Victoria", 
-      province: "bc", 
-      slug: "victoria", 
-      count: 6, 
-      image: "/images/cities/victoria_bc_inner-harbour.jpeg" 
-    },
-    { 
-      name: "Vancouver", 
-      province: "bc", 
-      slug: "vancouver", 
-      count: 12, 
-      image: "/images/cities/vancouver_bc_aerial-shot.jpeg" 
-    },
-    { 
-      name: "Toronto", 
-      province: "on", 
-      slug: "toronto", 
-      count: 15, 
-      image: "/images/cities/toronto-skyline.jpeg" 
-    },
+    { name: "Victoria", province: "bc", slug: "victoria", image: "/images/cities/victoria_bc_inner-harbour.jpeg" },
+    { name: "Vancouver", province: "bc", slug: "vancouver", image: "/images/cities/vancouver_bc_aerial-shot.jpeg" },
+    { name: "Toronto", province: "on", slug: "toronto", image: "/images/cities/toronto-skyline.jpeg" },
   ]
 
   // FAQ items
@@ -105,7 +216,7 @@ export default function Home() {
       
       <main className="flex-1">
         {/* Hero Section */}
-        <section className="w-full py-12 md:py-24 bg-gradient-to-b from-amber-50 to-background">
+        <section className="w-full py-12 md:py-24 bg-gradient-to-b from-blue-50 to-background">
           <div className="container px-4 md:px-6">
             <div className="flex flex-col items-center gap-4 text-center">
               <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
@@ -128,7 +239,6 @@ export default function Home() {
                 name={city.name}
                 province={city.province}
                 slug={city.slug}
-                count={city.count}
                 image={city.image}
               />
             ))}
@@ -136,13 +246,13 @@ export default function Home() {
         </section>
 
         {/* Browse by Province/City Section */}
-        <section className="container px-4 py-12 md:px-6">
+        <section id="browse-locations" className="container px-4 py-12 md:px-6">
           <h2 className="text-2xl font-bold tracking-tight mb-6">Browse Saunas by Location</h2>
           <ProvinceCitySelector provinces={provinces} />
         </section>
 
         {/* FAQ Section */}
-        <section className="container px-4 py-12 md:px-6">
+        <section id="faq" className="container px-4 py-12 md:px-6">
           <h2 className="text-2xl font-bold tracking-tight mb-6">Frequently Asked Questions</h2>
           <Accordion type="single" collapsible className="w-full max-w-3xl mx-auto">
             {faqItems.map((item, index) => (
@@ -154,12 +264,6 @@ export default function Home() {
               </AccordionItem>
             ))}
           </Accordion>
-          
-          <div className="mt-8 text-center">
-            <Button asChild>
-              <Link href="/about">Learn More About Saunas</Link>
-            </Button>
-          </div>
         </section>
       </main>
       

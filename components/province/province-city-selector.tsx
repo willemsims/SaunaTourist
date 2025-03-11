@@ -7,14 +7,11 @@ import { cn } from "@/lib/utils"
 interface City {
   name: string
   slug: string
-  count: number
-  image?: string
 }
 
 interface Province {
   name: string
   slug: string
-  count: number
   cities: City[]
 }
 
@@ -41,12 +38,11 @@ export function ProvinceCitySelector({ provinces }: ProvinceCitySelectorProps) {
               className={cn(
                 "w-full text-left py-2 px-3 rounded-md transition-colors",
                 selectedProvince === province.slug 
-                  ? "bg-amber-100 text-amber-900" 
+                  ? "bg-blue-100 text-blue-900" 
                   : "hover:bg-gray-100"
               )}
             >
               <div className="font-medium">{province.name}</div>
-              <div className="text-sm text-muted-foreground">{province.count} saunas</div>
             </button>
           ))}
         </div>
@@ -55,7 +51,7 @@ export function ProvinceCitySelector({ provinces }: ProvinceCitySelectorProps) {
       {/* City grid - takes 3/4 of the space on desktop */}
       <div className="md:col-span-3">
         <h3 className="text-lg font-semibold mb-4">
-          Cities in {currentProvince?.name}
+          Explore Saunas by City
         </h3>
         
         {currentProvince?.cities?.length ? (
@@ -64,10 +60,9 @@ export function ProvinceCitySelector({ provinces }: ProvinceCitySelectorProps) {
               <Link
                 key={city.slug}
                 href={`/${currentProvince.slug}/${city.slug}`}
-                className="group block p-4 border rounded-lg hover:border-amber-500 transition-colors"
+                className="group block p-4 border rounded-lg hover:border-blue-500 transition-colors"
               >
-                <div className="font-medium group-hover:text-amber-600">{city.name}</div>
-                <div className="text-sm text-muted-foreground">{city.count} saunas</div>
+                <div className="font-medium group-hover:text-blue-600">{city.name}</div>
               </Link>
             ))}
           </div>
