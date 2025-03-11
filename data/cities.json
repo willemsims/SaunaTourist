@@ -1,0 +1,1577 @@
+[
+  {
+    "name": "Calgary",
+    "slug": "calgary",
+    "province": "AB",
+    "provinceSlug": "ab",
+    "saunaCount": 1
+  },
+  {
+    "name": "Banff",
+    "slug": "banff",
+    "province": "Alberta",
+    "provinceSlug": "alberta",
+    "saunaCount": 2
+  },
+  {
+    "name": "Calgary",
+    "slug": "calgary",
+    "province": "Alberta",
+    "provinceSlug": "alberta",
+    "saunaCount": 21
+  },
+  {
+    "name": "Camrose",
+    "slug": "camrose",
+    "province": "Alberta",
+    "provinceSlug": "alberta",
+    "saunaCount": 1
+  },
+  {
+    "name": "Canmore",
+    "slug": "canmore",
+    "province": "Alberta",
+    "provinceSlug": "alberta",
+    "saunaCount": 1
+  },
+  {
+    "name": "Cochrane",
+    "slug": "cochrane",
+    "province": "Alberta",
+    "provinceSlug": "alberta",
+    "saunaCount": 1
+  },
+  {
+    "name": "Cold Lake",
+    "slug": "cold-lake",
+    "province": "Alberta",
+    "provinceSlug": "alberta",
+    "saunaCount": 1
+  },
+  {
+    "name": "Drayton Valley",
+    "slug": "drayton-valley",
+    "province": "Alberta",
+    "provinceSlug": "alberta",
+    "saunaCount": 1
+  },
+  {
+    "name": "Edmonton",
+    "slug": "edmonton",
+    "province": "Alberta",
+    "provinceSlug": "alberta",
+    "saunaCount": 17
+  },
+  {
+    "name": "Grande Prairie",
+    "slug": "grande-prairie",
+    "province": "Alberta",
+    "provinceSlug": "alberta",
+    "saunaCount": 1
+  },
+  {
+    "name": "Lacombe County",
+    "slug": "lacombe-county",
+    "province": "Alberta",
+    "provinceSlug": "alberta",
+    "saunaCount": 1
+  },
+  {
+    "name": "Lethbridge",
+    "slug": "lethbridge",
+    "province": "Alberta",
+    "provinceSlug": "alberta",
+    "saunaCount": 2
+  },
+  {
+    "name": "Lloydminster",
+    "slug": "lloydminster",
+    "province": "Alberta",
+    "provinceSlug": "alberta",
+    "saunaCount": 2
+  },
+  {
+    "name": "Medicine Hat",
+    "slug": "medicine-hat",
+    "province": "Alberta",
+    "provinceSlug": "alberta",
+    "saunaCount": 1
+  },
+  {
+    "name": "Olds",
+    "slug": "olds",
+    "province": "Alberta",
+    "provinceSlug": "alberta",
+    "saunaCount": 1
+  },
+  {
+    "name": "Red Deer",
+    "slug": "red-deer",
+    "province": "Alberta",
+    "provinceSlug": "alberta",
+    "saunaCount": 3
+  },
+  {
+    "name": "Spruce Grove",
+    "slug": "spruce-grove",
+    "province": "Alberta",
+    "provinceSlug": "alberta",
+    "saunaCount": 1
+  },
+  {
+    "name": "St. Albert",
+    "slug": "st-albert",
+    "province": "Alberta",
+    "provinceSlug": "alberta",
+    "saunaCount": 1
+  },
+  {
+    "name": "Sylvan Lake",
+    "slug": "sylvan-lake",
+    "province": "Alberta",
+    "provinceSlug": "alberta",
+    "saunaCount": 1
+  },
+  {
+    "name": "Wetaskiwin",
+    "slug": "wetaskiwin",
+    "province": "Alberta",
+    "provinceSlug": "alberta",
+    "saunaCount": 1
+  },
+  {
+    "name": "Vancouver",
+    "slug": "vancouver",
+    "province": "BC",
+    "provinceSlug": "bc",
+    "saunaCount": 1
+  },
+  {
+    "name": "Abbotsford",
+    "slug": "abbotsford",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 2
+  },
+  {
+    "name": "Black Creek",
+    "slug": "black-creek",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Brackendale",
+    "slug": "brackendale",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 2
+  },
+  {
+    "name": "Burnaby",
+    "slug": "burnaby",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Campbell River",
+    "slug": "campbell-river",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Cobble Hill",
+    "slug": "cobble-hill",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Coquitlam",
+    "slug": "coquitlam",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Courtenay",
+    "slug": "courtenay",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Duncan",
+    "slug": "duncan",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Heriot Bay",
+    "slug": "heriot-bay",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Kelowna",
+    "slug": "kelowna",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 7
+  },
+  {
+    "name": "Lake Country",
+    "slug": "lake-country",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 2
+  },
+  {
+    "name": "Langley Twp",
+    "slug": "langley-twp",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 2
+  },
+  {
+    "name": "Maple Ridge",
+    "slug": "maple-ridge",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Metchosin",
+    "slug": "metchosin",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Nanaimo",
+    "slug": "nanaimo",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Nelson",
+    "slug": "nelson",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "New Westminster",
+    "slug": "new-westminster",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "North Cowichan",
+    "slug": "north-cowichan",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "North Saanich",
+    "slug": "north-saanich",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "North Vancouver",
+    "slug": "north-vancouver",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 4
+  },
+  {
+    "name": "Parksville",
+    "slug": "parksville",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 4
+  },
+  {
+    "name": "Penticton",
+    "slug": "penticton",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Port Moody",
+    "slug": "port-moody",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Prince George",
+    "slug": "prince-george",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Qualicum Beach",
+    "slug": "qualicum-beach",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 2
+  },
+  {
+    "name": "Richmond",
+    "slug": "richmond",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Salt Spring Island",
+    "slug": "salt-spring-island",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Shawnigan Lake",
+    "slug": "shawnigan-lake",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Sicamous",
+    "slug": "sicamous",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Squamish",
+    "slug": "squamish",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 2
+  },
+  {
+    "name": "Squamish-Lillooet",
+    "slug": "squamish-lillooet",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Surrey",
+    "slug": "surrey",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 2
+  },
+  {
+    "name": "Ta Ta Creek",
+    "slug": "ta-ta-creek",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Ucluelet",
+    "slug": "ucluelet",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Vancouver",
+    "slug": "vancouver",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 12
+  },
+  {
+    "name": "Vernon",
+    "slug": "vernon",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Victoria",
+    "slug": "victoria",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 7
+  },
+  {
+    "name": "West Kelowna",
+    "slug": "west-kelowna",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Westbank",
+    "slug": "westbank",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Whistler",
+    "slug": "whistler",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 2
+  },
+  {
+    "name": "Ymir",
+    "slug": "ymir",
+    "province": "British Columbia",
+    "provinceSlug": "british-columbia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Brandon",
+    "slug": "brandon",
+    "province": "Manitoba",
+    "provinceSlug": "manitoba",
+    "saunaCount": 2
+  },
+  {
+    "name": "Kleefeld",
+    "slug": "kleefeld",
+    "province": "Manitoba",
+    "provinceSlug": "manitoba",
+    "saunaCount": 1
+  },
+  {
+    "name": "Steinbach",
+    "slug": "steinbach",
+    "province": "Manitoba",
+    "provinceSlug": "manitoba",
+    "saunaCount": 1
+  },
+  {
+    "name": "West Saint Paul",
+    "slug": "west-saint-paul",
+    "province": "Manitoba",
+    "provinceSlug": "manitoba",
+    "saunaCount": 1
+  },
+  {
+    "name": "Winkler",
+    "slug": "winkler",
+    "province": "Manitoba",
+    "provinceSlug": "manitoba",
+    "saunaCount": 2
+  },
+  {
+    "name": "Winnipeg",
+    "slug": "winnipeg",
+    "province": "Manitoba",
+    "provinceSlug": "manitoba",
+    "saunaCount": 4
+  },
+  {
+    "name": "Fredericton",
+    "slug": "fredericton",
+    "province": "New Brunswick",
+    "provinceSlug": "new-brunswick",
+    "saunaCount": 1
+  },
+  {
+    "name": "Grand Manan",
+    "slug": "grand-manan",
+    "province": "New Brunswick",
+    "provinceSlug": "new-brunswick",
+    "saunaCount": 1
+  },
+  {
+    "name": "Notre-Dame",
+    "slug": "notre-dame",
+    "province": "New Brunswick",
+    "provinceSlug": "new-brunswick",
+    "saunaCount": 1
+  },
+  {
+    "name": "Rothesay",
+    "slug": "rothesay",
+    "province": "New Brunswick",
+    "provinceSlug": "new-brunswick",
+    "saunaCount": 1
+  },
+  {
+    "name": "Strathadam",
+    "slug": "strathadam",
+    "province": "New Brunswick",
+    "provinceSlug": "new-brunswick",
+    "saunaCount": 1
+  },
+  {
+    "name": "Woodstock",
+    "slug": "woodstock",
+    "province": "New Brunswick",
+    "provinceSlug": "new-brunswick",
+    "saunaCount": 1
+  },
+  {
+    "name": "Dartmouth",
+    "slug": "dartmouth",
+    "province": "Nova Scotia",
+    "provinceSlug": "nova-scotia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Fall River",
+    "slug": "fall-river",
+    "province": "Nova Scotia",
+    "provinceSlug": "nova-scotia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Halifax",
+    "slug": "halifax",
+    "province": "Nova Scotia",
+    "provinceSlug": "nova-scotia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Middle Sackville",
+    "slug": "middle-sackville",
+    "province": "Nova Scotia",
+    "provinceSlug": "nova-scotia",
+    "saunaCount": 1
+  },
+  {
+    "name": "Porters Lake",
+    "slug": "porters-lake",
+    "province": "Nova Scotia",
+    "provinceSlug": "nova-scotia",
+    "saunaCount": 2
+  },
+  {
+    "name": "Alexandria",
+    "slug": "alexandria",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 2
+  },
+  {
+    "name": "Alliston",
+    "slug": "alliston",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Amherstburg",
+    "slug": "amherstburg",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Amherstview",
+    "slug": "amherstview",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Ancaster",
+    "slug": "ancaster",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Atwood",
+    "slug": "atwood",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Barrie",
+    "slug": "barrie",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 5
+  },
+  {
+    "name": "Bloomfield",
+    "slug": "bloomfield",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Bolton",
+    "slug": "bolton",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 2
+  },
+  {
+    "name": "Bowmanville",
+    "slug": "bowmanville",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Bradford",
+    "slug": "bradford",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Bradford West Gwillimbury",
+    "slug": "bradford-west-gwillimbury",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Brampton",
+    "slug": "brampton",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 2
+  },
+  {
+    "name": "Brantford",
+    "slug": "brantford",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Brockville",
+    "slug": "brockville",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Burlington",
+    "slug": "burlington",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 7
+  },
+  {
+    "name": "CA",
+    "slug": "ca",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 4
+  },
+  {
+    "name": "Caledon",
+    "slug": "caledon",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Carp",
+    "slug": "carp",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Chatham",
+    "slug": "chatham",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Collingwood",
+    "slug": "collingwood",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 3
+  },
+  {
+    "name": "Concord",
+    "slug": "concord",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 5
+  },
+  {
+    "name": "Cookstown",
+    "slug": "cookstown",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 2
+  },
+  {
+    "name": "Courtland",
+    "slug": "courtland",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 2
+  },
+  {
+    "name": "Dundas",
+    "slug": "dundas",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Dunnville",
+    "slug": "dunnville",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Fort Erie",
+    "slug": "fort-erie",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 2
+  },
+  {
+    "name": "Grand Bend",
+    "slug": "grand-bend",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 2
+  },
+  {
+    "name": "Gravenhurst",
+    "slug": "gravenhurst",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Greater Sudbury",
+    "slug": "greater-sudbury",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Guelph",
+    "slug": "guelph",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Hamilton",
+    "slug": "hamilton",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 3
+  },
+  {
+    "name": "Hanmer",
+    "slug": "hanmer",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Innisfil",
+    "slug": "innisfil",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Kanata",
+    "slug": "kanata",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Kars",
+    "slug": "kars",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "King",
+    "slug": "king",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Kingston",
+    "slug": "kingston",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 2
+  },
+  {
+    "name": "Kingsville",
+    "slug": "kingsville",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Kitchener",
+    "slug": "kitchener",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 4
+  },
+  {
+    "name": "Lakefield",
+    "slug": "lakefield",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Lakeshore",
+    "slug": "lakeshore",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Listowel",
+    "slug": "listowel",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 2
+  },
+  {
+    "name": "London",
+    "slug": "london",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 5
+  },
+  {
+    "name": "Markham",
+    "slug": "markham",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 7
+  },
+  {
+    "name": "McKerrow",
+    "slug": "mckerrow",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Meaford",
+    "slug": "meaford",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 2
+  },
+  {
+    "name": "Midland",
+    "slug": "midland",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 2
+  },
+  {
+    "name": "Milton",
+    "slug": "milton",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Mississauga",
+    "slug": "mississauga",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 6
+  },
+  {
+    "name": "Muskoka Lakes",
+    "slug": "muskoka-lakes",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Nepean",
+    "slug": "nepean",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "New Tecumseth",
+    "slug": "new-tecumseth",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Newmarket",
+    "slug": "newmarket",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 2
+  },
+  {
+    "name": "Niagara Falls",
+    "slug": "niagara-falls",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 2
+  },
+  {
+    "name": "North Bay",
+    "slug": "north-bay",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "North York",
+    "slug": "north-york",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 2
+  },
+  {
+    "name": "Oakville",
+    "slug": "oakville",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 3
+  },
+  {
+    "name": "Orangeville",
+    "slug": "orangeville",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Orléans",
+    "slug": "orlans",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 2
+  },
+  {
+    "name": "Ottawa",
+    "slug": "ottawa",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 7
+  },
+  {
+    "name": "Owen Sound",
+    "slug": "owen-sound",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 2
+  },
+  {
+    "name": "Paris",
+    "slug": "paris",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Parry Sound",
+    "slug": "parry-sound",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Petawawa",
+    "slug": "petawawa",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 2
+  },
+  {
+    "name": "Peterborough",
+    "slug": "peterborough",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 2
+  },
+  {
+    "name": "Phelpston",
+    "slug": "phelpston",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Port Elgin",
+    "slug": "port-elgin",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 2
+  },
+  {
+    "name": "Richmond Hill",
+    "slug": "richmond-hill",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 5
+  },
+  {
+    "name": "Russell",
+    "slug": "russell",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Sarnia",
+    "slug": "sarnia",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 2
+  },
+  {
+    "name": "Sault Ste. Marie",
+    "slug": "sault-ste-marie",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 2
+  },
+  {
+    "name": "Scarborough",
+    "slug": "scarborough",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Shannonville",
+    "slug": "shannonville",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "St Thomas",
+    "slug": "st-thomas",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "St. Catharines",
+    "slug": "st-catharines",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Stittsville",
+    "slug": "stittsville",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 2
+  },
+  {
+    "name": "Sturgeon Falls",
+    "slug": "sturgeon-falls",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Temiskaming Shores",
+    "slug": "temiskaming-shores",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Thornhill",
+    "slug": "thornhill",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 2
+  },
+  {
+    "name": "Thorold",
+    "slug": "thorold",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Thunder Bay",
+    "slug": "thunder-bay",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 4
+  },
+  {
+    "name": "Toronto",
+    "slug": "toronto",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 18
+  },
+  {
+    "name": "Torrance",
+    "slug": "torrance",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Tottenham",
+    "slug": "tottenham",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Utterson",
+    "slug": "utterson",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Uxbridge",
+    "slug": "uxbridge",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 2
+  },
+  {
+    "name": "Vankleek Hill",
+    "slug": "vankleek-hill",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Vaughan",
+    "slug": "vaughan",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 6
+  },
+  {
+    "name": "Wallaceburg",
+    "slug": "wallaceburg",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Waterloo",
+    "slug": "waterloo",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 4
+  },
+  {
+    "name": "Whitby",
+    "slug": "whitby",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Wilkesport",
+    "slug": "wilkesport",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Windsor",
+    "slug": "windsor",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 2
+  },
+  {
+    "name": "Woodbridge",
+    "slug": "woodbridge",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Woodlawn",
+    "slug": "woodlawn",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Woodstock",
+    "slug": "woodstock",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Wroxeter",
+    "slug": "wroxeter",
+    "province": "Ontario",
+    "provinceSlug": "ontario",
+    "saunaCount": 1
+  },
+  {
+    "name": "Charlottetown",
+    "slug": "charlottetown",
+    "province": "Prince Edward Island",
+    "provinceSlug": "prince-edward-island",
+    "saunaCount": 1
+  },
+  {
+    "name": "Summerside",
+    "slug": "summerside",
+    "province": "Prince Edward Island",
+    "provinceSlug": "prince-edward-island",
+    "saunaCount": 1
+  },
+  {
+    "name": "Acton Vale",
+    "slug": "acton-vale",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Amherst",
+    "slug": "amherst",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Beaconsfield",
+    "slug": "beaconsfield",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Beaupré",
+    "slug": "beaupr",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Bois-Franc",
+    "slug": "bois-franc",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Boisbriand",
+    "slug": "boisbriand",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Boucherville",
+    "slug": "boucherville",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Brossard",
+    "slug": "brossard",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Châteauguay",
+    "slug": "chteauguay",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Gatineau",
+    "slug": "gatineau",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 2
+  },
+  {
+    "name": "L'Île-Bizard",
+    "slug": "lle-bizard",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Laval",
+    "slug": "laval",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 4
+  },
+  {
+    "name": "Longueuil",
+    "slug": "longueuil",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Magog",
+    "slug": "magog",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Montreal",
+    "slug": "montreal",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 13
+  },
+  {
+    "name": "North Hatley",
+    "slug": "north-hatley",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Piedmont",
+    "slug": "piedmont",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Pointe-Claire",
+    "slug": "pointe-claire",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Preissac",
+    "slug": "preissac",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Québec City",
+    "slug": "qubec-city",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 6
+  },
+  {
+    "name": "Repentigny",
+    "slug": "repentigny",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Rigaud",
+    "slug": "rigaud",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Rivière-du-Loup",
+    "slug": "rivire-du-loup",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Saint-Boniface",
+    "slug": "saint-boniface",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Saint-Hubert",
+    "slug": "saint-hubert",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Saint-Laurent",
+    "slug": "saint-laurent",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Sainte-Adèle",
+    "slug": "sainte-adle",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Sainte-Anne-de-Beaupré",
+    "slug": "sainte-anne-de-beaupr",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Sainte-Cécile-de-Masham",
+    "slug": "sainte-ccile-de-masham",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Sainte-Martine",
+    "slug": "sainte-martine",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Sainte-Thérèse",
+    "slug": "sainte-thrse",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Salaberry-de-Valleyfield",
+    "slug": "salaberry-de-valleyfield",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Senneterre",
+    "slug": "senneterre",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Sherbrooke",
+    "slug": "sherbrooke",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Sorel-Tracy",
+    "slug": "sorel-tracy",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "St Come",
+    "slug": "st-come",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Trois-Rivières",
+    "slug": "trois-rivires",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 2
+  },
+  {
+    "name": "Très-Saint-Rédempteur",
+    "slug": "trs-saint-rdempteur",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Val-David",
+    "slug": "val-david",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Victoriaville",
+    "slug": "victoriaville",
+    "province": "Quebec",
+    "provinceSlug": "quebec",
+    "saunaCount": 1
+  },
+  {
+    "name": "Corman Park No. 344",
+    "slug": "corman-park-no-344",
+    "province": "Saskatchewan",
+    "provinceSlug": "saskatchewan",
+    "saunaCount": 1
+  },
+  {
+    "name": "Elk Ridge",
+    "slug": "elk-ridge",
+    "province": "Saskatchewan",
+    "provinceSlug": "saskatchewan",
+    "saunaCount": 1
+  },
+  {
+    "name": "Prince Albert",
+    "slug": "prince-albert",
+    "province": "Saskatchewan",
+    "provinceSlug": "saskatchewan",
+    "saunaCount": 1
+  },
+  {
+    "name": "Regina",
+    "slug": "regina",
+    "province": "Saskatchewan",
+    "provinceSlug": "saskatchewan",
+    "saunaCount": 1
+  },
+  {
+    "name": "Saskatoon",
+    "slug": "saskatoon",
+    "province": "Saskatchewan",
+    "provinceSlug": "saskatchewan",
+    "saunaCount": 3
+  }
+]

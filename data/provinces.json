@@ -1,0 +1,68 @@
+[
+  {
+    "name": "AB",
+    "slug": "ab",
+    "cityCount": 1,
+    "saunaCount": 1
+  },
+  {
+    "name": "Alberta",
+    "slug": "alberta",
+    "cityCount": 19,
+    "saunaCount": 60
+  },
+  {
+    "name": "BC",
+    "slug": "bc",
+    "cityCount": 1,
+    "saunaCount": 1
+  },
+  {
+    "name": "British Columbia",
+    "slug": "british-columbia",
+    "cityCount": 42,
+    "saunaCount": 79
+  },
+  {
+    "name": "Manitoba",
+    "slug": "manitoba",
+    "cityCount": 6,
+    "saunaCount": 11
+  },
+  {
+    "name": "New Brunswick",
+    "slug": "new-brunswick",
+    "cityCount": 6,
+    "saunaCount": 6
+  },
+  {
+    "name": "Nova Scotia",
+    "slug": "nova-scotia",
+    "cityCount": 5,
+    "saunaCount": 6
+  },
+  {
+    "name": "Ontario",
+    "slug": "ontario",
+    "cityCount": 98,
+    "saunaCount": 202
+  },
+  {
+    "name": "Prince Edward Island",
+    "slug": "prince-edward-island",
+    "cityCount": 2,
+    "saunaCount": 2
+  },
+  {
+    "name": "Quebec",
+    "slug": "quebec",
+    "cityCount": 40,
+    "saunaCount": 62
+  },
+  {
+    "name": "Saskatchewan",
+    "slug": "saskatchewan",
+    "cityCount": 5,
+    "saunaCount": 7
+  }
+]
